@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916461847736",
+    "project_id": "upvideo-736b0",
+    "storage_bucket": "upvideo-736b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916461847736:android:9016af9a148160982de04d",
+        "android_client_info": {
+          "package_name": "com.example.cameratiktok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVcf8v3cq_frgKdRTXIzuKrzAfgYGpEGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
